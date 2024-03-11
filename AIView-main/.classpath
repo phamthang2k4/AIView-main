@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AIView-main/NCKH/src"/>
+	<classpathentry kind="lib" path="AIView-main/Library/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="AIView-main/Library/jython-standalone-2.7.3.jar"/>
+	<classpathentry kind="lib" path="AIView-main/Library/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="AIView-main/Library/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="AIView-main/Library/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
